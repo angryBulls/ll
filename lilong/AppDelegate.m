@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     
     int a = 0;
+    int b = 1;
     
     
     return YES;
